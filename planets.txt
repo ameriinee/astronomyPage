@@ -1,0 +1,101 @@
+STYCZEŃ:
+Mercury (not visible 1-15)
+Venus	
+Mars	
+Jupiter	
+Saturn
+Uran
+Neptune 
+
+LUTY:
+Mercury (not visible 1-15)
+Venus (not visible 15-28)
+Mars 
+Jupiter (1-15 not visible)
+Saturn (1-15 not visible) 
+Uran
+Neptune (15-28 not visible)
+
+MARZEC:
+Mercury
+Mars
+Jupiter
+Saturn
+Uran
+
+KWIECIEŃ:
+Jupiter
+Saturn
+Uran
+
+MAJ:
+Merkury (1-15 not visible)
+Venus (1-15 not visible)
+Mars
+Jupiter
+Saturn
+
+CZERWIEC:
+Merkury (7-30)
+Venus
+Mars
+Jupiter
+Saturn
+Uran
+Neptune
+
+LIPIEC:
+Mercury (15-31 not visible)
+Venus
+Mars
+Jupiter
+Saturn
+Uran
+Neptune
+
+SIERPIEŃ:
+Mercury (1-15) not visible
+Venus 
+Mars
+Jupiter
+Saturn
+Uran
+Neptune
+
+WRZESIEŃ:
+Mercury 
+Venus
+Jupiter
+Saturn
+Uran
+Neptune
+
+PAŹDZIERNIK:
+Mercury
+Venus
+Jupiter
+Saturn
+Uran
+Neptune
+
+LISTOPAD:
+Mercury
+Venus
+Mars (1-15 not visible)
+Jupiter
+Saturn
+Uran
+Neptun
+
+GRUDZIEŃ:
+Venus
+Mars
+Jupiter
+Saturn
+Uran
+Neptune 
+
+
+
+
+

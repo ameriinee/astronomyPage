@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="./style/style.css" />
+		<title>astronomy page</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet" />
+	</head>
+	<body>
+		<container>
+			<h1>astronomy page</h1>
+			<nav>
+				<ul>
+					<li><a href="#">shop</a></li>
+					<li><a href="#gallery">gallery</a></li>
+					<li><a href="#">contact</a></li>
+				</ul>
+			</nav>
+
+			<main>
+				<article class="facts">
+					<div class="photo">
+						<img id="img" src="./img/img1.png" alt="img" />
+						<button id="button">next fact</button>
+					</div>
+					<div class="info">
+						<h2 id="title">Orion Nebula</h2>
+						<p id="text">
+							The Orion Nebula is one of the most scrutinized and photographed objects in the night sky and is among the
+							most intensely studied celestial features. The nebula has revealed much about the process of how stars and
+							planetary systems are formed from collapsing clouds of gas and dust. Astronomers have directly observed
+							protoplanetary disks and brown dwarfs within the nebula, intense and turbulent motions of the gas, and the
+							photo-ionizing effects of massive nearby stars in the nebula.
+						</p>
+					</div>
+				</article>
+
+				<article class="time">
+					<p id="today"></p>
+					<h2>astronomical events December 2021</h2>
+
+					<div class="dates">
+						<p id="p1">Geminids (13.12.2021):</p>
+						<p id="date1"></p>
+						<br />
+						<p>Cold Moon (18.12.2021):</p>
+						<p id="date2"></p>
+						<br />
+						<p id="p3">winter solstice (21.12.2021):</p>
+						<p id="date3"></p>
+						<br />
+						<p>Ursids (22.12.2021):</p>
+						<p id="date4"></p>
+						<br />
+						<p id="p5">conjunction of Venus and Mercury (29.12.2021):</p>
+						<p id="date5"></p>
+					</div>
+				</article>
+
+				<article class="form">
+					<p>Check the visible planets in the sky on the day you choose.</p>
+
+					<div class="checkDate">
+						<label>Date: <input type="date" id="date"/></label>
+						<button id="check">Check</button>
+					</div>
+
+					<ul id="list">
+						<li>Mercury</li>
+						<li>Venus</li>
+						<li>Mars</li>
+						<li>Jupiter</li>
+						<li>Saturn</li>
+						<li>Uranus</li>
+						<li>Neptune</li>
+					</ul>
+				</article>
+
+				<article class="gallery" id="gallery">
+					<h2>gallery</h2>
+					<a href="./img/photos/gal1.jpg" target="_blank"><img src="./img/gal1.png" alt="gal1"/></a>
+					<a href="./img/photos/gal2.jpg" target="_blank"><img src="./img/gal2.png" alt="gal2"/></a>
+					<a href="./img/photos/gal3.jpg" target="_blank"><img src="./img/gal3.png" alt="gal3"/></a>
+					<a href="./img/photos/gal4.jpg" target="_blank"><img src="./img/gal4.png" alt="gal4"/></a>
+					<a href="./img/photos/gal5.jpg" target="_blank"><img src="./img/gal5.png" alt="gal5"/></a>
+					<a href="./img/photos/gal6.jpg" target="_blank"><img src="./img/gal6.png" alt="gal6"/></a>
+					<a href="./img/photos/gal7.jpg" target="_blank"><img src="./img/gal7.png" alt="gal7"/></a>
+					<a href="./img/photos/gal8.jpg" target="_blank"><img src="./img/gal8.png" alt="gal8"/></a>
+					<a href="./img/photos/gal9.jpg" target="_blank"><img src="./img/gal9.png" alt="gal9"/></a>
+					<a href="./img/photos/gal10.jpg" target="_blank"><img src="./img/gal10.png" alt="gal10"/></a>
+					<a href="./img/photos/gal11.jpg" target="_blank"><img src="./img/gal11.png" alt="gal11"/></a>
+					<a href="./img/photos/gal12.jpg" target="_blank"><img src="./img/gal12.png" alt="gal12"/></a>
+				</article>
+
+				<article class="contact"></article>
+
+				<footer>
+					<p>Amelia Wojtasik</p>
+				</footer>
+			</main>
+		</container>
+		<script src="./script.js"></script>
+	</body>
+</html>
